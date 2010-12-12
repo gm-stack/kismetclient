@@ -1,0 +1,517 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* kismetclientAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1085, 529}}";
+			sepNavSelRange = "{26, 0}";
+			sepNavVisRange = "{0, 333}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* kismetclientAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1085, 529}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 391}";
+			sepNavWindowFrame = "{{73, 19}, {1057, 1004}}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* kismetclient_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1085, 529}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 155}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 870797EC12B352FC008E90AE /* kismetclient */;
+		activeTarget = 8D1107260486CEB800E47090 /* kismetclient */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* kismetclient */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 870797FE12B35301008E90AE /* Code sense */;
+		executables = (
+			870797EC12B352FC008E90AE /* kismetclient */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					907,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					867,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313853011;
+			PBXWorkspaceStateSaveDate = 313853011;
+		};
+		perUserProjectItems = {
+			8707985012B35D39008E90AE = 8707985012B35D39008E90AE /* PBXTextBookmark */;
+			8707985212B35D39008E90AE = 8707985212B35D39008E90AE /* PBXTextBookmark */;
+			870798CF12B364C4008E90AE = 870798CF12B364C4008E90AE /* PBXTextBookmark */;
+			8707999012B37216008E90AE = 8707999012B37216008E90AE /* PBXTextBookmark */;
+			8707999212B37216008E90AE = 8707999212B37216008E90AE /* PBXTextBookmark */;
+			8707999412B37216008E90AE = 8707999412B37216008E90AE /* PBXTextBookmark */;
+			8707999512B37216008E90AE = 8707999512B37216008E90AE /* PBXTextBookmark */;
+			8707999612B37216008E90AE = 8707999612B37216008E90AE /* PBXTextBookmark */;
+			870799B412B3737A008E90AE = 870799B412B3737A008E90AE /* PBXTextBookmark */;
+			87079A0312B37615008E90AE = 87079A0312B37615008E90AE /* PBXTextBookmark */;
+			87079C1412B3A852008E90AE = 87079C1412B3A852008E90AE /* PBXTextBookmark */;
+			87079C1512B3A852008E90AE = 87079C1512B3A852008E90AE /* PBXTextBookmark */;
+			87079C1612B3A852008E90AE = 87079C1612B3A852008E90AE /* PBXTextBookmark */;
+			87079E9C12B3B510008E90AE = 87079E9C12B3B510008E90AE /* PBXTextBookmark */;
+			87079EEC12B3B8C8008E90AE = 87079EEC12B3B8C8008E90AE /* PBXTextBookmark */;
+			87079EFD12B3B94A008E90AE = 87079EFD12B3B94A008E90AE /* PBXTextBookmark */;
+			87079F0812B3B984008E90AE = 87079F0812B3B984008E90AE /* PlistBookmark */;
+			87079F1612B3B9EC008E90AE = 87079F1612B3B9EC008E90AE /* PlistBookmark */;
+			8741ABD712B5045D005DDC39 /* PlistBookmark */ = 8741ABD712B5045D005DDC39 /* PlistBookmark */;
+			8741ABD812B5045D005DDC39 /* PBXTextBookmark */ = 8741ABD812B5045D005DDC39 /* PBXTextBookmark */;
+			8741ABD912B5045D005DDC39 /* PBXTextBookmark */ = 8741ABD912B5045D005DDC39 /* PBXTextBookmark */;
+			8741ABDA12B5045D005DDC39 /* PBXTextBookmark */ = 8741ABDA12B5045D005DDC39 /* PBXTextBookmark */;
+			87AE8CD112B3C66800341E7C = 87AE8CD112B3C66800341E7C /* PlistBookmark */;
+		};
+		sourceControlManager = 870797FD12B35301008E90AE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1085, 529}}";
+			sepNavSelRange = "{188, 0}";
+			sepNavVisRange = "{0, 249}";
+		};
+	};
+	870797EC12B352FC008E90AE /* kismetclient */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = kismetclient;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	870797FD12B35301008E90AE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	870797FE12B35301008E90AE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	870797FF12B3531E008E90AE /* AsyncSocket.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1085, 8606}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1224}";
+		};
+	};
+	8707980012B3531E008E90AE /* AsyncSocket.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1085, 50102}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1289}";
+		};
+	};
+	8707980912B3537A008E90AE /* kismetsocket.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1085, 529}}";
+			sepNavSelRange = "{71, 0}";
+			sepNavVisRange = "{0, 714}";
+		};
+	};
+	8707980A12B3537A008E90AE /* kismetsocket.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1216, 3120}}";
+			sepNavSelRange = "{497, 0}";
+			sepNavVisRange = "{0, 2255}";
+		};
+	};
+	8707985012B35D39008E90AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707985112B35D39008E90AE /* IRCcontroller.m */;
+		name = "IRCcontroller.m: 21";
+		rLen = 0;
+		rLoc = 437;
+		rType = 0;
+		vrLen = 1303;
+		vrLoc = 2466;
+	};
+	8707985112B35D39008E90AE /* IRCcontroller.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = IRCcontroller.m;
+		path = "/Volumes/Macintosh HD/devel/3dirc/IRCcontroller.m";
+		sourceTree = "<absolute>";
+	};
+	8707985212B35D39008E90AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707985312B35D39008E90AE /* ircclient.h */;
+		name = "ircclient.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 659;
+		vrLoc = 0;
+	};
+	8707985312B35D39008E90AE /* ircclient.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ircclient.h;
+		path = "/Volumes/Macintosh HD/devel/3dirc/ircclient.h";
+		sourceTree = "<absolute>";
+	};
+	8707988212B3601B008E90AE /* ircclient.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ircclient.m;
+		path = "/Volumes/Macintosh HD/devel/3dirc/ircclient.m";
+		sourceTree = "<absolute>";
+	};
+	870798CF12B364C4008E90AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707988212B3601B008E90AE /* ircclient.m */;
+		name = "ircclient.m: 46";
+		rLen = 2191;
+		rLoc = 1375;
+		rType = 0;
+		vrLen = 1522;
+		vrLoc = 1372;
+	};
+	8707998512B37190008E90AE /* networkutils.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {820, 805}}";
+			sepNavSelRange = "{346, 0}";
+			sepNavVisRange = "{0, 353}";
+			sepNavWindowFrame = "{{61, 24}, {879, 1004}}";
+		};
+	};
+	8707998612B37190008E90AE /* networkutils.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {633, 1183}}";
+			sepNavSelRange = "{237, 0}";
+			sepNavVisRange = "{136, 276}";
+			sepNavWindowFrame = "{{15, 19}, {879, 1004}}";
+		};
+	};
+	8707999012B37216008E90AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707999112B37216008E90AE /* packet_ieee80211.h */;
+		name = "packet_ieee80211.h: 208";
+		rLen = 9;
+		rLoc = 5350;
+		rType = 0;
+		vrLen = 928;
+		vrLoc = 4857;
+	};
+	8707999112B37216008E90AE /* packet_ieee80211.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = packet_ieee80211.h;
+		path = "/Volumes/Macintosh HD/devel/kismet/kismet-devel/packet_ieee80211.h";
+		sourceTree = "<absolute>";
+	};
+	8707999212B37216008E90AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707999312B37216008E90AE /* kis_panel_details.cc */;
+		name = "kis_panel_details.cc: 226";
+		rLen = 1064;
+		rLoc = 6774;
+		rType = 0;
+		vrLen = 1034;
+		vrLoc = 6774;
+	};
+	8707999312B37216008E90AE /* kis_panel_details.cc */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = kis_panel_details.cc;
+		path = "/Volumes/Macintosh HD/devel/kismet/kismet-devel/kis_panel_details.cc";
+		sourceTree = "<absolute>";
+	};
+	8707999412B37216008E90AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 24";
+		rLen = 0;
+		rLoc = 497;
+		rType = 0;
+		vrLen = 1520;
+		vrLoc = 474;
+	};
+	8707999512B37216008E90AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* kismetclientAppDelegate.m */;
+		name = "kismetclientAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 379;
+		vrLoc = 0;
+	};
+	8707999612B37216008E90AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* kismetclientAppDelegate.h */;
+		name = "kismetclientAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 321;
+		vrLoc = 0;
+	};
+	870799A212B37239008E90AE /* 80211_packet.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1085, 2951}}";
+			sepNavSelRange = "{44, 0}";
+			sepNavVisRange = "{0, 1137}";
+			sepNavWindowFrame = "{{486, 24}, {879, 1004}}";
+		};
+	};
+	870799B412B3737A008E90AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707998512B37190008E90AE /* networkutils.h */;
+		name = "networkutils.h: 10";
+		rLen = 0;
+		rLoc = 181;
+		rType = 0;
+		vrLen = 232;
+		vrLoc = 0;
+	};
+	87079A0312B37615008E90AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707998612B37190008E90AE /* networkutils.m */;
+		name = "networkutils.m: 14";
+		rLen = 0;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 1146;
+		vrLoc = 267;
+	};
+	87079BD012B3A212008E90AE /* signalnoiseview.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1254, 873}}";
+			sepNavSelRange = "{196, 0}";
+			sepNavVisRange = "{0, 633}";
+		};
+	};
+	87079BD112B3A212008E90AE /* signalnoiseview.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1286, 1430}}";
+			sepNavSelRange = "{2261, 0}";
+			sepNavVisRange = "{985, 2590}";
+			sepNavWindowFrame = "{{185, 4}, {1313, 1024}}";
+		};
+	};
+	87079C1412B3A852008E90AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 870799A212B37239008E90AE /* 80211_packet.h */;
+		name = "80211_packet.h: 152";
+		rLen = 0;
+		rLoc = 3708;
+		rType = 0;
+		vrLen = 577;
+		vrLoc = 4762;
+	};
+	87079C1512B3A852008E90AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 870797FF12B3531E008E90AE /* AsyncSocket.h */;
+		name = "AsyncSocket.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1224;
+		vrLoc = 0;
+	};
+	87079C1612B3A852008E90AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87079BD012B3A212008E90AE /* signalnoiseview.h */;
+		name = "signalnoiseview.h: 14";
+		rLen = 0;
+		rLoc = 463;
+		rType = 0;
+		vrLen = 213;
+		vrLoc = 0;
+	};
+	87079C1A12B3A852008E90AE /* graphview.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = graphview.m;
+		path = "/Volumes/Macintosh HD/devel/gpstool/graphview.m";
+		sourceTree = "<absolute>";
+	};
+	87079E9C12B3B510008E90AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87079C1A12B3A852008E90AE /* graphview.m */;
+		name = "graphview.m: 13";
+		rLen = 3095;
+		rLoc = 190;
+		rType = 0;
+		vrLen = 774;
+		vrLoc = 4039;
+	};
+	87079EEC12B3B8C8008E90AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
+		name = "kismetsocket.h: 19";
+		rLen = 0;
+		rLoc = 371;
+		rType = 0;
+		vrLen = 702;
+		vrLoc = 0;
+	};
+	87079EFD12B3B94A008E90AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87079BD112B3A212008E90AE /* signalnoiseview.m */;
+		name = "signalnoiseview.m: 90";
+		rLen = 0;
+		rLoc = 3305;
+		rType = 0;
+		vrLen = 1107;
+		vrLoc = 0;
+	};
+	87079F0812B3B984008E90AE /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* kismetclient-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/Macintosh HD/devel/kismetclient/kismetclient-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	87079F1612B3B9EC008E90AE /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* kismetclient-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/Macintosh HD/devel/kismetclient/kismetclient-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	8741ABD712B5045D005DDC39 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* kismetclient-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/Macintosh HD/devel/kismetclient/kismetclient-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	8741ABD812B5045D005DDC39 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* kismetclientAppDelegate.m */;
+		name = "kismetclientAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 391;
+		vrLoc = 0;
+	};
+	8741ABD912B5045D005DDC39 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
+		name = "kismetsocket.h: 19";
+		rLen = 0;
+		rLoc = 371;
+		rType = 0;
+		vrLen = 702;
+		vrLoc = 0;
+	};
+	8741ABDA12B5045D005DDC39 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 23";
+		rLen = 0;
+		rLoc = 497;
+		rType = 0;
+		vrLen = 1309;
+		vrLoc = 8706;
+	};
+	87AE8CD112B3C66800341E7C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* kismetclient-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/Macintosh HD/devel/kismetclient/kismetclient-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	8D1107260486CEB800E47090 /* kismetclient */ = {
+		activeExec = 0;
+		executables = (
+			870797EC12B352FC008E90AE /* kismetclient */,
+		);
+	};
+}
