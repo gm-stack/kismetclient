@@ -15,6 +15,7 @@
 		87079BD212B3A212008E90AE /* signalnoiseview.m in Sources */ = {isa = PBXBuildFile; fileRef = 87079BD112B3A212008E90AE /* signalnoiseview.m */; };
 		87079EEA12B3B8A3008E90AE /* NSBezierPathAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 87079EE912B3B8A3008E90AE /* NSBezierPathAdditions.m */; };
 		87079F0112B3B95B008E90AE /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 87079F0012B3B95B008E90AE /* QuartzCore.framework */; };
+		8741ABED12B64E88005DDC39 /* kismetsettingscontroller.m in Sources */ = {isa = PBXBuildFile; fileRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */; };
 		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
 		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
@@ -43,6 +44,8 @@
 		87079EE812B3B8A3008E90AE /* NSBezierPathAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSBezierPathAdditions.h; sourceTree = "<group>"; };
 		87079EE912B3B8A3008E90AE /* NSBezierPathAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSBezierPathAdditions.m; sourceTree = "<group>"; };
 		87079F0012B3B95B008E90AE /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = /System/Library/Frameworks/QuartzCore.framework; sourceTree = "<absolute>"; };
+		8741ABEB12B64E88005DDC39 /* kismetsettingscontroller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = kismetsettingscontroller.h; sourceTree = "<group>"; };
+		8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = kismetsettingscontroller.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* kismetclient-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "kismetclient-Info.plist"; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* kismetclient.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kismetclient.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -115,6 +118,8 @@
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
 				87079F0012B3B95B008E90AE /* QuartzCore.framework */,
+				8741ABEB12B64E88005DDC39 /* kismetsettingscontroller.h */,
+				8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */,
 			);
 			name = kismetclient;
 			sourceTree = "<group>";
@@ -216,6 +221,7 @@
 				8707998712B37190008E90AE /* networkutils.m in Sources */,
 				87079BD212B3A212008E90AE /* signalnoiseview.m in Sources */,
 				87079EEA12B3B8A3008E90AE /* NSBezierPathAdditions.m in Sources */,
+				8741ABED12B64E88005DDC39 /* kismetsettingscontroller.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
