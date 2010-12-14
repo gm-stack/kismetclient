@@ -239,17 +239,15 @@ objectValueForTableColumn:(NSTableColumn *)tableColumn
 	}
 }
 
-- (IBAction)tableViewSelected:(id)sender
-{
-	if (sender == table) {
-		int row = [sender selectedRow];
-		if (row >= 0) {
-			NSString *network = [netArray objectAtIndex:row];
-			NSLog(@"clicked %@", network);
 
+- (void)tableViewSelectionDidChange:(NSNotification *)aNotification {
+		int row = [table selectedRow];
+		if (row >= 0) {
+			currentNetwork = [netArray objectAtIndex:row];
+			
 			if (currentNetInfo != nil) [currentNetInfo release];
-			currentNetInfo = [NSMutableDictionary dictionaryWithDictionary:[netDict objectForKey:network]];
-			[currentNetInfo addEntriesFromDictionary:[BSSIDdict objectForKey:network]];
+			currentNetInfo = [NSMutableDictionary dictionaryWithDictionary:[netDict objectForKey:currentNetwork]];
+			[currentNetInfo addEntriesFromDictionary:[BSSIDdict objectForKey:currentNetwork]];
 			[currentNetInfo retain];
 			
 			[sigview setSignalParamsNoiseMin:[[currentNetInfo objectForKey:@"minnoise_dbm"] floatValue]
@@ -261,10 +259,7 @@ objectValueForTableColumn:(NSTableColumn *)tableColumn
 			
 			[netTable reloadData];
 		}
-    }	
 }
 
-
-@synthesize time;
 
 @end

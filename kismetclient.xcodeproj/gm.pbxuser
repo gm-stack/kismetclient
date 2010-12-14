@@ -444,6 +444,52 @@
 			87CDACC212B7979C006224AF /* PBXTextBookmark */ = 87CDACC212B7979C006224AF /* PBXTextBookmark */;
 			87CDACC312B7979C006224AF /* PBXTextBookmark */ = 87CDACC312B7979C006224AF /* PBXTextBookmark */;
 			87CDACC412B7979C006224AF /* PBXTextBookmark */ = 87CDACC412B7979C006224AF /* PBXTextBookmark */;
+			87CDACC812B799BD006224AF /* PBXTextBookmark */ = 87CDACC812B799BD006224AF /* PBXTextBookmark */;
+			87CDACC912B799BD006224AF /* PBXTextBookmark */ = 87CDACC912B799BD006224AF /* PBXTextBookmark */;
+			87CDACCA12B799BD006224AF /* PBXTextBookmark */ = 87CDACCA12B799BD006224AF /* PBXTextBookmark */;
+			87CDACCE12B79A41006224AF /* XCBuildMessageTextBookmark */ = 87CDACCE12B79A41006224AF /* XCBuildMessageTextBookmark */;
+			87CDACCF12B79A41006224AF /* PBXTextBookmark */ = 87CDACCF12B79A41006224AF /* PBXTextBookmark */;
+			87CDACD012B79A42006224AF /* PBXTextBookmark */ = 87CDACD012B79A42006224AF /* PBXTextBookmark */;
+			87CDACD112B79A6E006224AF /* PBXTextBookmark */ = 87CDACD112B79A6E006224AF /* PBXTextBookmark */;
+			87CDACD212B79A74006224AF /* PBXTextBookmark */ = 87CDACD212B79A74006224AF /* PBXTextBookmark */;
+			87CDACD312B79A74006224AF /* PBXTextBookmark */ = 87CDACD312B79A74006224AF /* PBXTextBookmark */;
+			87CDACD612B79B0D006224AF /* PBXTextBookmark */ = 87CDACD612B79B0D006224AF /* PBXTextBookmark */;
+			87CDACD712B79B0D006224AF /* PBXTextBookmark */ = 87CDACD712B79B0D006224AF /* PBXTextBookmark */;
+			87CDACD912B79B71006224AF /* PBXTextBookmark */ = 87CDACD912B79B71006224AF /* PBXTextBookmark */;
+			87CDACDA12B79B71006224AF /* PBXTextBookmark */ = 87CDACDA12B79B71006224AF /* PBXTextBookmark */;
+			87CDACDB12B79B71006224AF /* PBXTextBookmark */ = 87CDACDB12B79B71006224AF /* PBXTextBookmark */;
+			87CDACDC12B79B71006224AF /* PBXTextBookmark */ = 87CDACDC12B79B71006224AF /* PBXTextBookmark */;
+			87CDACE012B79BD5006224AF /* PBXTextBookmark */ = 87CDACE012B79BD5006224AF /* PBXTextBookmark */;
+			87CDACE112B79BD5006224AF /* PBXTextBookmark */ = 87CDACE112B79BD5006224AF /* PBXTextBookmark */;
+			87CDACE212B79BD5006224AF /* PBXTextBookmark */ = 87CDACE212B79BD5006224AF /* PBXTextBookmark */;
+			87CDACE612B79BF5006224AF /* PBXTextBookmark */ = 87CDACE612B79BF5006224AF /* PBXTextBookmark */;
+			87CDACE712B79BF5006224AF /* PBXTextBookmark */ = 87CDACE712B79BF5006224AF /* PBXTextBookmark */;
+			87CDACEB12B79C36006224AF /* PBXTextBookmark */ = 87CDACEB12B79C36006224AF /* PBXTextBookmark */;
+			87CDACEC12B79C36006224AF /* PBXTextBookmark */ = 87CDACEC12B79C36006224AF /* PBXTextBookmark */;
+			87CDACED12B79C36006224AF /* PBXTextBookmark */ = 87CDACED12B79C36006224AF /* PBXTextBookmark */;
+			87CDACEE12B79C36006224AF /* PBXTextBookmark */ = 87CDACEE12B79C36006224AF /* PBXTextBookmark */;
+			87CDACF212B79C5C006224AF /* PBXTextBookmark */ = 87CDACF212B79C5C006224AF /* PBXTextBookmark */;
+			87CDACF312B79C5C006224AF /* PBXTextBookmark */ = 87CDACF312B79C5C006224AF /* PBXTextBookmark */;
+			87CDACF412B79C5C006224AF /* PBXTextBookmark */ = 87CDACF412B79C5C006224AF /* PBXTextBookmark */;
+			87CDACF512B79C5C006224AF /* PBXTextBookmark */ = 87CDACF512B79C5C006224AF /* PBXTextBookmark */;
+			87CDACFD12B79C83006224AF /* PBXTextBookmark */ = 87CDACFD12B79C83006224AF /* PBXTextBookmark */;
+			87CDACFE12B79C83006224AF /* PBXTextBookmark */ = 87CDACFE12B79C83006224AF /* PBXTextBookmark */;
+			87CDAD0412B79CAF006224AF /* PBXTextBookmark */ = 87CDAD0412B79CAF006224AF /* PBXTextBookmark */;
+			87CDAD0512B79CAF006224AF /* PBXTextBookmark */ = 87CDAD0512B79CAF006224AF /* PBXTextBookmark */;
+			87CDAD0612B79CAF006224AF /* PBXTextBookmark */ = 87CDAD0612B79CAF006224AF /* PBXTextBookmark */;
+			87CDAD0712B79CAF006224AF /* PBXTextBookmark */ = 87CDAD0712B79CAF006224AF /* PBXTextBookmark */;
+			87CDAD0B12B79CEF006224AF /* PBXTextBookmark */ = 87CDAD0B12B79CEF006224AF /* PBXTextBookmark */;
+			87CDAD0C12B79CEF006224AF /* PBXTextBookmark */ = 87CDAD0C12B79CEF006224AF /* PBXTextBookmark */;
+			87CDAD0D12B79CEF006224AF /* PBXTextBookmark */ = 87CDAD0D12B79CEF006224AF /* PBXTextBookmark */;
+			87CDAD0E12B79CEF006224AF /* PBXTextBookmark */ = 87CDAD0E12B79CEF006224AF /* PBXTextBookmark */;
+			87CDAD1012B79D20006224AF /* PBXTextBookmark */ = 87CDAD1012B79D20006224AF /* PBXTextBookmark */;
+			87CDAD1112B79D20006224AF /* PBXTextBookmark */ = 87CDAD1112B79D20006224AF /* PBXTextBookmark */;
+			87CDAD1212B79D20006224AF /* PBXTextBookmark */ = 87CDAD1212B79D20006224AF /* PBXTextBookmark */;
+			87CDAD1512B79D3D006224AF /* PBXTextBookmark */ = 87CDAD1512B79D3D006224AF /* PBXTextBookmark */;
+			87CDAD1612B79D3D006224AF /* PBXTextBookmark */ = 87CDAD1612B79D3D006224AF /* PBXTextBookmark */;
+			87CDAD1812B79D66006224AF /* PBXTextBookmark */ = 87CDAD1812B79D66006224AF /* PBXTextBookmark */;
+			87CDAD1912B79D66006224AF /* PBXTextBookmark */ = 87CDAD1912B79D66006224AF /* PBXTextBookmark */;
+			87CDAD1A12B79D66006224AF /* PBXTextBookmark */ = 87CDAD1A12B79D66006224AF /* PBXTextBookmark */;
 		};
 		sourceControlManager = 870797FD12B35301008E90AE /* Source Control */;
 		userBuildSettings = {
@@ -518,17 +564,17 @@
 	};
 	8707980912B3537A008E90AE /* kismetsocket.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1254, 896}}";
-			sepNavSelRange = "{586, 0}";
-			sepNavVisRange = "{0, 775}";
+			sepNavIntBoundsRect = "{{0, 0}, {1254, 871}}";
+			sepNavSelRange = "{721, 0}";
+			sepNavVisRange = "{0, 727}";
 			sepNavWindowFrame = "{{15, 4}, {1313, 1024}}";
 		};
 	};
 	8707980A12B3537A008E90AE /* kismetsocket.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1254, 3432}}";
-			sepNavSelRange = "{2820, 0}";
-			sepNavVisRange = "{605, 3277}";
+			sepNavIntBoundsRect = "{{0, 0}, {1254, 3575}}";
+			sepNavSelRange = "{9642, 0}";
+			sepNavVisRange = "{8498, 2123}";
 			sepNavWindowFrame = "{{15, 4}, {1313, 1024}}";
 		};
 	};
@@ -854,8 +900,8 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1254, 1716}}";
 			sepNavSelRange = "{1389, 0}";
-			sepNavVisRange = "{199, 2751}";
-			sepNavWindowFrame = "{{527, -315}, {1313, 1024}}";
+			sepNavVisRange = "{199, 2764}";
+			sepNavWindowFrame = "{{30, 4}, {1313, 1024}}";
 		};
 	};
 	8741ABF912B65173005DDC39 /* PBXTextBookmark */ = {
@@ -1014,7 +1060,7 @@
 		isa = PBXTextBookmark;
 		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
 		name = "kismetsocket.m: 180";
-		rLen = 1140;
+		rLen = 1141;
 		rLoc = 8502;
 		rType = 0;
 		vrLen = 1182;
@@ -1880,7 +1926,7 @@
 		hitCount = 0;
 		ignoreCount = 0;
 		location = libobjc.A.dylib;
-		modificationTime = 314021787.901844;
+		modificationTime = 314023228.579219;
 		originalNumberOfMultipleMatches = 1;
 		state = 1;
 		symbolName = objc_exception_throw;
@@ -3002,7 +3048,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 23";
 		rLen = 0;
-		rLoc = 585;
+		rLoc = 610;
 		rType = 0;
 		vrLen = 720;
 		vrLoc = 0;
@@ -3041,7 +3087,7 @@
 		isa = PBXTextBookmark;
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		rLen = 0;
-		rLoc = 775;
+		rLoc = 727;
 		rType = 0;
 	};
 	8741ADED12B77F1E005DDC39 /* PBXTextBookmark */ = {
@@ -3049,7 +3095,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 24";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 720;
 		vrLoc = 0;
@@ -3079,7 +3125,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 24";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 720;
 		vrLoc = 0;
@@ -3138,7 +3184,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 24";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 720;
 		vrLoc = 0;
@@ -3207,7 +3253,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 25";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 747;
 		vrLoc = 0;
@@ -3237,7 +3283,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 25";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 747;
 		vrLoc = 0;
@@ -3267,7 +3313,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 25";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 747;
 		vrLoc = 0;
@@ -3297,7 +3343,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 25";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 747;
 		vrLoc = 0;
@@ -3327,7 +3373,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 25";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 747;
 		vrLoc = 0;
@@ -3387,7 +3433,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 25";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 747;
 		vrLoc = 0;
@@ -3407,7 +3453,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 26";
 		rLen = 14;
-		rLoc = 570;
+		rLoc = 595;
 		rType = 0;
 		vrLen = 775;
 		vrLoc = 0;
@@ -3457,7 +3503,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 27";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 775;
 		vrLoc = 0;
@@ -3497,7 +3543,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 27";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 775;
 		vrLoc = 0;
@@ -3537,7 +3583,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 27";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 775;
 		vrLoc = 0;
@@ -3577,7 +3623,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 27";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 775;
 		vrLoc = 0;
@@ -3617,7 +3663,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 27";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 775;
 		vrLoc = 0;
@@ -3647,7 +3693,7 @@
 		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
 		name = "kismetsocket.m: 247";
 		rLen = 0;
-		rLoc = 9794;
+		rLoc = 10613;
 		rType = 0;
 		vrLen = 1082;
 		vrLoc = 9556;
@@ -3657,7 +3703,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 27";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 775;
 		vrLoc = 0;
@@ -3687,7 +3733,7 @@
 		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
 		name = "kismetsocket.m: 247";
 		rLen = 0;
-		rLoc = 9794;
+		rLoc = 10613;
 		rType = 0;
 		vrLen = 1082;
 		vrLoc = 9556;
@@ -3697,7 +3743,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 27";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 775;
 		vrLoc = 0;
@@ -3727,7 +3773,7 @@
 		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
 		name = "kismetsocket.m: 247";
 		rLen = 0;
-		rLoc = 9794;
+		rLoc = 10613;
 		rType = 0;
 		vrLen = 1082;
 		vrLoc = 9556;
@@ -3737,7 +3783,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 27";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 775;
 		vrLoc = 0;
@@ -3767,7 +3813,7 @@
 		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
 		name = "kismetsocket.m: 247";
 		rLen = 0;
-		rLoc = 9794;
+		rLoc = 10613;
 		rType = 0;
 		vrLen = 1084;
 		vrLoc = 9556;
@@ -3777,7 +3823,7 @@
 		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
 		name = "kismetsocket.h: 27";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 775;
 		vrLoc = 0;
@@ -3841,7 +3887,7 @@
 		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
 		name = "kismetsocket.m: 250";
 		rLen = 0;
-		rLoc = 9880;
+		rLoc = 10613;
 		rType = 0;
 		vrLen = 1091;
 		vrLoc = 8759;
@@ -3885,7 +3931,7 @@
 		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
 		name = "kismetsocket.m: 250";
 		rLen = 0;
-		rLoc = 9880;
+		rLoc = 10613;
 		rType = 0;
 		vrLen = 1091;
 		vrLoc = 8759;
@@ -3895,7 +3941,7 @@
 		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
 		name = "kismetsocket.m: 250";
 		rLen = 0;
-		rLoc = 9880;
+		rLoc = 10613;
 		rType = 0;
 		vrLen = 2358;
 		vrLoc = 1313;
@@ -3977,6 +4023,462 @@
 		rType = 0;
 		vrLen = 2751;
 		vrLoc = 199;
+	};
+	87CDACC812B799BD006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 62";
+		rLen = 0;
+		rLoc = 2820;
+		rType = 0;
+		vrLen = 1907;
+		vrLoc = 1798;
+	};
+	87CDACC912B799BD006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 120";
+		rLen = 0;
+		rLoc = 5203;
+		rType = 0;
+		vrLen = 2944;
+		vrLoc = 3929;
+	};
+	87CDACCA12B799BD006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
+		name = "kismetsettingscontroller.m: 37";
+		rLen = 0;
+		rLoc = 1389;
+		rType = 0;
+		vrLen = 2751;
+		vrLoc = 199;
+	};
+	87CDACCE12B79A41006224AF /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)";
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 61;
+		rType = 1;
+	};
+	87CDACCF12B79A41006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 62";
+		rLen = 0;
+		rLoc = 2820;
+		rType = 0;
+		vrLen = 939;
+		vrLoc = 2064;
+	};
+	87CDACD012B79A42006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 62";
+		rLen = 0;
+		rLoc = 2820;
+		rType = 0;
+		vrLen = 939;
+		vrLoc = 2064;
+	};
+	87CDACD112B79A6E006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 62";
+		rLen = 0;
+		rLoc = 2820;
+		rType = 0;
+		vrLen = 939;
+		vrLoc = 2064;
+	};
+	87CDACD212B79A74006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 62";
+		rLen = 0;
+		rLoc = 2820;
+		rType = 0;
+		vrLen = 1972;
+		vrLoc = 1798;
+	};
+	87CDACD312B79A74006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 120";
+		rLen = 0;
+		rLoc = 5203;
+		rType = 0;
+		vrLen = 3044;
+		vrLoc = 3929;
+	};
+	87CDACD612B79B0D006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 62";
+		rLen = 0;
+		rLoc = 2820;
+		rType = 0;
+		vrLen = 1097;
+		vrLoc = 9565;
+	};
+	87CDACD712B79B0D006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 120";
+		rLen = 0;
+		rLoc = 5203;
+		rType = 0;
+		vrLen = 2934;
+		vrLoc = 4039;
+	};
+	87CDACD912B79B71006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
+		name = "kismetsocket.h: 27";
+		rLen = 11;
+		rLoc = 611;
+		rType = 0;
+		vrLen = 744;
+		vrLoc = 0;
+	};
+	87CDACDA12B79B71006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 242";
+		rLen = 0;
+		rLoc = 10613;
+		rType = 0;
+		vrLen = 1168;
+		vrLoc = 9565;
+	};
+	87CDACDB12B79B71006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 120";
+		rLen = 0;
+		rLoc = 5203;
+		rType = 0;
+		vrLen = 1594;
+		vrLoc = 4447;
+	};
+	87CDACDC12B79B71006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 120";
+		rLen = 0;
+		rLoc = 5203;
+		rType = 0;
+		vrLen = 3039;
+		vrLoc = 4039;
+	};
+	87CDACE012B79BD5006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 120";
+		rLen = 0;
+		rLoc = 5203;
+		rType = 0;
+		vrLen = 1498;
+		vrLoc = 4543;
+	};
+	87CDACE112B79BD5006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 120";
+		rLen = 0;
+		rLoc = 5203;
+		rType = 0;
+		vrLen = 3039;
+		vrLoc = 4039;
+	};
+	87CDACE212B79BD5006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 120";
+		rLen = 0;
+		rLoc = 5203;
+		rType = 0;
+		vrLen = 2042;
+		vrLoc = 8693;
+	};
+	87CDACE612B79BF5006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 120";
+		rLen = 0;
+		rLoc = 5203;
+		rType = 0;
+		vrLen = 1495;
+		vrLoc = 4638;
+	};
+	87CDACE712B79BF5006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 120";
+		rLen = 0;
+		rLoc = 5203;
+		rType = 0;
+		vrLen = 2042;
+		vrLoc = 8693;
+	};
+	87CDACEB12B79C36006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 120";
+		rLen = 0;
+		rLoc = 5203;
+		rType = 0;
+		vrLen = 1566;
+		vrLoc = 4655;
+	};
+	87CDACEC12B79C36006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 243";
+		rLen = 0;
+		rLoc = 10612;
+		rType = 0;
+		vrLen = 2127;
+		vrLoc = 8500;
+	};
+	87CDACED12B79C36006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
+		rLen = 0;
+		rLoc = 9223372036854775790;
+		rType = 0;
+	};
+	87CDACEE12B79C36006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
+		name = "kismetsocket.h: 34";
+		rLen = 0;
+		rLoc = 721;
+		rType = 0;
+		vrLen = 702;
+		vrLoc = 0;
+	};
+	87CDACF212B79C5C006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 120";
+		rLen = 0;
+		rLoc = 5203;
+		rType = 0;
+		vrLen = 1532;
+		vrLoc = 4733;
+	};
+	87CDACF312B79C5C006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
+		name = "kismetsocket.h: 35";
+		rLen = 0;
+		rLoc = 721;
+		rType = 0;
+		vrLen = 744;
+		vrLoc = 0;
+	};
+	87CDACF412B79C5C006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 258";
+		rLen = 0;
+		rLoc = 10613;
+		rType = 0;
+		vrLen = 2081;
+		vrLoc = 8654;
+	};
+	87CDACF512B79C5C006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 258";
+		rLen = 0;
+		rLoc = 10613;
+		rType = 0;
+		vrLen = 2042;
+		vrLoc = 8693;
+	};
+	87CDACFD12B79C83006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 120";
+		rLen = 0;
+		rLoc = 5203;
+		rType = 0;
+		vrLen = 1624;
+		vrLoc = 4817;
+	};
+	87CDACFE12B79C83006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 243";
+		rLen = 0;
+		rLoc = 9714;
+		rType = 0;
+		vrLen = 2051;
+		vrLoc = 8729;
+	};
+	87CDAD0412B79CAF006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 120";
+		rLen = 0;
+		rLoc = 5203;
+		rType = 0;
+		vrLen = 1684;
+		vrLoc = 4893;
+	};
+	87CDAD0512B79CAF006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
+		name = "kismetsocket.h: 35";
+		rLen = 0;
+		rLoc = 721;
+		rType = 0;
+		vrLen = 744;
+		vrLoc = 0;
+	};
+	87CDAD0612B79CAF006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 243";
+		rLen = 0;
+		rLoc = 9714;
+		rType = 0;
+		vrLen = 2051;
+		vrLoc = 8729;
+	};
+	87CDAD0712B79CAF006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 262";
+		rLen = 0;
+		rLoc = 10612;
+		rType = 0;
+		vrLen = 2100;
+		vrLoc = 8590;
+	};
+	87CDAD0B12B79CEF006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 120";
+		rLen = 0;
+		rLoc = 5203;
+		rType = 0;
+		vrLen = 1696;
+		vrLoc = 4979;
+	};
+	87CDAD0C12B79CEF006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
+		name = "kismetsocket.h: 25";
+		rLen = 0;
+		rLoc = 584;
+		rType = 0;
+		vrLen = 769;
+		vrLoc = 0;
+	};
+	87CDAD0D12B79CEF006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 249";
+		rLen = 0;
+		rLoc = 10063;
+		rType = 0;
+		vrLen = 2107;
+		vrLoc = 8560;
+	};
+	87CDAD0E12B79CEF006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 249";
+		rLen = 0;
+		rLoc = 10063;
+		rType = 0;
+		vrLen = 2107;
+		vrLoc = 8560;
+	};
+	87CDAD1012B79D20006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 120";
+		rLen = 0;
+		rLoc = 5203;
+		rType = 0;
+		vrLen = 1797;
+		vrLoc = 4979;
+	};
+	87CDAD1112B79D20006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 261";
+		rLen = 0;
+		rLoc = 10613;
+		rType = 0;
+		vrLen = 2122;
+		vrLoc = 8498;
+	};
+	87CDAD1212B79D20006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
+		name = "kismetsocket.h: 34";
+		rLen = 0;
+		rLoc = 721;
+		rType = 0;
+		vrLen = 727;
+		vrLoc = 0;
+	};
+	87CDAD1512B79D3D006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 120";
+		rLen = 0;
+		rLoc = 5203;
+		rType = 0;
+		vrLen = 1651;
+		vrLoc = 5125;
+	};
+	87CDAD1612B79D3D006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
+		name = "kismetsocket.h: 34";
+		rLen = 0;
+		rLoc = 721;
+		rType = 0;
+		vrLen = 727;
+		vrLoc = 0;
+	};
+	87CDAD1812B79D66006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 120";
+		rLen = 0;
+		rLoc = 5203;
+		rType = 0;
+		vrLen = 1720;
+		vrLoc = 5255;
+	};
+	87CDAD1912B79D66006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980912B3537A008E90AE /* kismetsocket.h */;
+		name = "kismetsocket.h: 34";
+		rLen = 0;
+		rLoc = 721;
+		rType = 0;
+		vrLen = 727;
+		vrLoc = 0;
+	};
+	87CDAD1A12B79D66006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 241";
+		rLen = 0;
+		rLoc = 9642;
+		rType = 0;
+		vrLen = 2123;
+		vrLoc = 8498;
 	};
 	8D1107260486CEB800E47090 /* kismetclient */ = {
 		activeExec = 0;

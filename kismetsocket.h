@@ -22,7 +22,7 @@
 	NSMutableDictionary *BSSIDdict;
 	NSMutableDictionary *currentNetInfo;
 	NSMutableArray *netArray;
-	
+	NSString *currentNetwork;
 	NSArray *netInfoHeaders;
 	int time;
 
@@ -31,8 +31,5 @@
 
 - (IBAction) connect2:(id)sender;
 - (void)connect:(NSString *)server port:(unsigned int)port;
-- (IBAction)tableViewSelected:(id)sender;
-
-@property (readonly)int time;
 
 @end
