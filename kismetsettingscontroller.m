@@ -34,7 +34,7 @@
 
 -(IBAction) reloadConfig:(id)sender {
 		
-	NSString *config = [NSString stringWithContentsOfFile:[path stringValue]];
+	NSString *config = [NSString stringWithContentsOfFile:[path stringValue] encoding:NSUTF8StringEncoding error:nil];
 	NSArray *configArray = [config componentsSeparatedByString:@"\n"];
 	NSMutableArray *configParts = [NSMutableArray arrayWithCapacity:20];
 	

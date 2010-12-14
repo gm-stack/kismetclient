@@ -9,7 +9,7 @@
 	};
 	256AC3D90F4B6AC300CF3369 /* kismetclientAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1085, 529}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1085, 496}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 391}";
 			sepNavWindowFrame = "{{73, 19}, {1057, 1004}}";
@@ -66,7 +66,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					907,
+					1267,
 					20,
 					48,
 					43,
@@ -423,6 +423,27 @@
 			87CDAC9A12B78D89006224AF /* PBXTextBookmark */ = 87CDAC9A12B78D89006224AF /* PBXTextBookmark */;
 			87CDAC9B12B78D89006224AF /* PBXTextBookmark */ = 87CDAC9B12B78D89006224AF /* PBXTextBookmark */;
 			87CDAC9C12B78D89006224AF /* PBXTextBookmark */ = 87CDAC9C12B78D89006224AF /* PBXTextBookmark */;
+			87CDAC9D12B78EF2006224AF /* PBXTextBookmark */ = 87CDAC9D12B78EF2006224AF /* PBXTextBookmark */;
+			87CDAC9E12B78EF3006224AF /* PBXTextBookmark */ = 87CDAC9E12B78EF3006224AF /* PBXTextBookmark */;
+			87CDAC9F12B78EFC006224AF /* PBXTextBookmark */ = 87CDAC9F12B78EFC006224AF /* PBXTextBookmark */;
+			87CDACA212B79179006224AF /* PBXBookmark */ = 87CDACA212B79179006224AF /* PBXBookmark */;
+			87CDACA812B79207006224AF /* PBXTextBookmark */ = 87CDACA812B79207006224AF /* PBXTextBookmark */;
+			87CDACA912B79207006224AF /* PBXTextBookmark */ = 87CDACA912B79207006224AF /* PBXTextBookmark */;
+			87CDACAA12B79207006224AF /* PBXTextBookmark */ = 87CDACAA12B79207006224AF /* PBXTextBookmark */;
+			87CDACAD12B79207006224AF /* PBXTextBookmark */ = 87CDACAD12B79207006224AF /* PBXTextBookmark */;
+			87CDACB012B79263006224AF /* PBXBookmark */ = 87CDACB012B79263006224AF /* PBXBookmark */;
+			87CDACB312B79273006224AF /* PBXTextBookmark */ = 87CDACB312B79273006224AF /* PBXTextBookmark */;
+			87CDACB412B79273006224AF /* PBXTextBookmark */ = 87CDACB412B79273006224AF /* PBXTextBookmark */;
+			87CDACB512B79273006224AF /* PBXTextBookmark */ = 87CDACB512B79273006224AF /* PBXTextBookmark */;
+			87CDACB612B79273006224AF /* PBXTextBookmark */ = 87CDACB612B79273006224AF /* PBXTextBookmark */;
+			87CDACB912B79273006224AF /* PBXTextBookmark */ = 87CDACB912B79273006224AF /* PBXTextBookmark */;
+			87CDACBA12B79273006224AF /* PBXTextBookmark */ = 87CDACBA12B79273006224AF /* PBXTextBookmark */;
+			87CDACBD12B79795006224AF /* XCBuildMessageTextBookmark */ = 87CDACBD12B79795006224AF /* XCBuildMessageTextBookmark */;
+			87CDACC012B7979C006224AF /* PBXTextBookmark */ = 87CDACC012B7979C006224AF /* PBXTextBookmark */;
+			87CDACC112B7979C006224AF /* XCBuildMessageTextBookmark */ = 87CDACC112B7979C006224AF /* XCBuildMessageTextBookmark */;
+			87CDACC212B7979C006224AF /* PBXTextBookmark */ = 87CDACC212B7979C006224AF /* PBXTextBookmark */;
+			87CDACC312B7979C006224AF /* PBXTextBookmark */ = 87CDACC312B7979C006224AF /* PBXTextBookmark */;
+			87CDACC412B7979C006224AF /* PBXTextBookmark */ = 87CDACC412B7979C006224AF /* PBXTextBookmark */;
 		};
 		sourceControlManager = 870797FD12B35301008E90AE /* Source Control */;
 		userBuildSettings = {
@@ -490,9 +511,9 @@
 	};
 	8707980012B3531E008E90AE /* AsyncSocket.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1085, 50102}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 1289}";
+			sepNavIntBoundsRect = "{{0, 0}, {1445, 54574}}";
+			sepNavSelRange = "{121810, 0}";
+			sepNavVisRange = "{0, 1265}";
 		};
 	};
 	8707980912B3537A008E90AE /* kismetsocket.h */ = {
@@ -500,13 +521,15 @@
 			sepNavIntBoundsRect = "{{0, 0}, {1254, 896}}";
 			sepNavSelRange = "{586, 0}";
 			sepNavVisRange = "{0, 775}";
+			sepNavWindowFrame = "{{15, 4}, {1313, 1024}}";
 		};
 	};
 	8707980A12B3537A008E90AE /* kismetsocket.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1254, 3822}}";
-			sepNavSelRange = "{9794, 0}";
-			sepNavVisRange = "{9556, 1084}";
+			sepNavIntBoundsRect = "{{0, 0}, {1254, 3432}}";
+			sepNavSelRange = "{2820, 0}";
+			sepNavVisRange = "{605, 3277}";
+			sepNavWindowFrame = "{{15, 4}, {1313, 1024}}";
 		};
 	};
 	8707985012B35D39008E90AE /* PBXTextBookmark */ = {
@@ -677,8 +700,8 @@
 	};
 	87079BD112B3A212008E90AE /* signalnoiseview.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1153, 1508}}";
-			sepNavSelRange = "{180, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {1286, 1430}}";
+			sepNavSelRange = "{3272, 0}";
 			sepNavVisRange = "{0, 1121}";
 			sepNavWindowFrame = "{{185, 4}, {1313, 1024}}";
 		};
@@ -752,7 +775,7 @@
 		fRef = 87079BD112B3A212008E90AE /* signalnoiseview.m */;
 		name = "signalnoiseview.m: 90";
 		rLen = 0;
-		rLoc = 3317;
+		rLoc = 3321;
 		rType = 0;
 		vrLen = 1107;
 		vrLoc = 0;
@@ -829,9 +852,9 @@
 	};
 	8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1085, 1703}}";
-			sepNavSelRange = "{241, 22}";
-			sepNavVisRange = "{0, 1653}";
+			sepNavIntBoundsRect = "{{0, 0}, {1254, 1716}}";
+			sepNavSelRange = "{1389, 0}";
+			sepNavVisRange = "{199, 2751}";
 			sepNavWindowFrame = "{{527, -315}, {1313, 1024}}";
 		};
 	};
@@ -1049,7 +1072,7 @@
 		isa = PBXTextBookmark;
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 23";
-		rLen = 1111;
+		rLen = 1151;
 		rLoc = 1345;
 		rType = 0;
 		vrLen = 1026;
@@ -1059,7 +1082,7 @@
 		isa = PBXTextBookmark;
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 23";
-		rLen = 1111;
+		rLen = 1151;
 		rLoc = 1345;
 		rType = 0;
 		vrLen = 1031;
@@ -1170,7 +1193,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 25";
 		rLen = 0;
-		rLoc = 2455;
+		rLoc = 2495;
 		rType = 0;
 		vrLen = 1129;
 		vrLoc = 51;
@@ -1180,7 +1203,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 27";
 		rLen = 0;
-		rLoc = 2455;
+		rLoc = 2495;
 		rType = 0;
 		vrLen = 1236;
 		vrLoc = 0;
@@ -1190,7 +1213,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 27";
 		rLen = 0;
-		rLoc = 2455;
+		rLoc = 2495;
 		rType = 0;
 		vrLen = 1249;
 		vrLoc = 0;
@@ -1220,7 +1243,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 33";
 		rLen = 0;
-		rLoc = 2455;
+		rLoc = 2495;
 		rType = 0;
 		vrLen = 1481;
 		vrLoc = 54;
@@ -1230,7 +1253,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 28";
 		rLen = 0;
-		rLoc = 1670;
+		rLoc = 1710;
 		rType = 0;
 		vrLen = 1475;
 		vrLoc = 54;
@@ -1240,7 +1263,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 30";
 		rLen = 0;
-		rLoc = 1731;
+		rLoc = 1771;
 		rType = 0;
 		vrLen = 1522;
 		vrLoc = 54;
@@ -1250,7 +1273,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 30";
 		rLen = 0;
-		rLoc = 1801;
+		rLoc = 1841;
 		rType = 0;
 		vrLen = 1506;
 		vrLoc = 54;
@@ -1260,7 +1283,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 30";
 		rLen = 0;
-		rLoc = 1721;
+		rLoc = 1761;
 		rType = 0;
 		vrLen = 1507;
 		vrLoc = 54;
@@ -1270,7 +1293,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 39";
 		rLen = 0;
-		rLoc = 2455;
+		rLoc = 2495;
 		rType = 0;
 		vrLen = 1668;
 		vrLoc = 54;
@@ -1280,7 +1303,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 51";
 		rLen = 0;
-		rLoc = 3070;
+		rLoc = 3110;
 		rType = 0;
 		vrLen = 1289;
 		vrLoc = 780;
@@ -1290,7 +1313,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 52";
 		rLen = 0;
-		rLoc = 3071;
+		rLoc = 3111;
 		rType = 0;
 		vrLen = 1293;
 		vrLoc = 780;
@@ -1380,7 +1403,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 45";
 		rLen = 0;
-		rLoc = 2314;
+		rLoc = 2354;
 		rType = 0;
 		vrLen = 1879;
 		vrLoc = 199;
@@ -1390,7 +1413,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 66";
 		rLen = 0;
-		rLoc = 3071;
+		rLoc = 3111;
 		rType = 0;
 		vrLen = 1505;
 		vrLoc = 1086;
@@ -1400,7 +1423,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 56";
 		rLen = 0;
-		rLoc = 2662;
+		rLoc = 2702;
 		rType = 0;
 		vrLen = 1441;
 		vrLoc = 1124;
@@ -1410,7 +1433,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 52";
 		rLen = 0;
-		rLoc = 2537;
+		rLoc = 2577;
 		rType = 0;
 		vrLen = 1477;
 		vrLoc = 1085;
@@ -1420,7 +1443,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 52";
 		rLen = 0;
-		rLoc = 2537;
+		rLoc = 2577;
 		rType = 0;
 		vrLen = 1682;
 		vrLoc = 3;
@@ -1430,7 +1453,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 52";
 		rLen = 0;
-		rLoc = 2537;
+		rLoc = 2577;
 		rType = 0;
 		vrLen = 1595;
 		vrLoc = 3;
@@ -1440,7 +1463,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 40";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1441;
 		vrLoc = 1126;
@@ -1454,7 +1477,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 40";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1507;
 		vrLoc = 901;
@@ -1484,7 +1507,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 43";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1948;
 		vrLoc = 376;
@@ -1504,7 +1527,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 43";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1470;
 		vrLoc = 525;
@@ -1524,7 +1547,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 43";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1470;
 		vrLoc = 525;
@@ -1534,7 +1557,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 60";
 		rLen = 0;
-		rLoc = 2633;
+		rLoc = 2673;
 		rType = 0;
 		vrLen = 2625;
 		vrLoc = 197;
@@ -1561,7 +1584,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 43";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1470;
 		vrLoc = 525;
@@ -1581,7 +1604,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 64";
 		rLen = 0;
-		rLoc = 2920;
+		rLoc = 2960;
 		rType = 0;
 		vrLen = 2759;
 		vrLoc = 197;
@@ -1591,7 +1614,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 43";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1829;
 		vrLoc = 498;
@@ -1601,7 +1624,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 78";
 		rLen = 0;
-		rLoc = 4110;
+		rLoc = 4150;
 		rType = 0;
 		vrLen = 2849;
 		vrLoc = 264;
@@ -1611,7 +1634,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 43";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1829;
 		vrLoc = 498;
@@ -1621,7 +1644,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 56";
 		rLen = 0;
-		rLoc = 2537;
+		rLoc = 2577;
 		rType = 0;
 		vrLen = 2524;
 		vrLoc = 619;
@@ -1631,7 +1654,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 43";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1829;
 		vrLoc = 498;
@@ -1641,7 +1664,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 85";
 		rLen = 0;
-		rLoc = 4556;
+		rLoc = 4596;
 		rType = 0;
 		vrLen = 2116;
 		vrLoc = 1118;
@@ -1651,7 +1674,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 43";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1470;
 		vrLoc = 560;
@@ -1661,7 +1684,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 63";
 		rLen = 0;
-		rLoc = 2704;
+		rLoc = 2744;
 		rType = 0;
 		vrLen = 2196;
 		vrLoc = 1038;
@@ -1671,7 +1694,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 43";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1723;
 		vrLoc = 498;
@@ -1681,7 +1704,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 54";
 		rLen = 0;
-		rLoc = 2182;
+		rLoc = 2222;
 		rType = 0;
 		vrLen = 2269;
 		vrLoc = 1169;
@@ -1691,7 +1714,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 43";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1725;
 		vrLoc = 498;
@@ -1701,7 +1724,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 54";
 		rLen = 0;
-		rLoc = 2235;
+		rLoc = 2275;
 		rType = 0;
 		vrLen = 2055;
 		vrLoc = 1284;
@@ -1711,7 +1734,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 50";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1724;
 		vrLoc = 498;
@@ -1731,7 +1754,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 50";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1470;
 		vrLoc = 560;
@@ -1741,7 +1764,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 94";
 		rLen = 0;
-		rLoc = 3324;
+		rLoc = 3364;
 		rType = 0;
 		vrLen = 2229;
 		vrLoc = 1412;
@@ -1751,7 +1774,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 50";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1470;
 		vrLoc = 560;
@@ -1761,7 +1784,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 95";
 		rLen = 0;
-		rLoc = 4110;
+		rLoc = 4150;
 		rType = 0;
 		vrLen = 2312;
 		vrLoc = 1381;
@@ -1771,7 +1794,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 50";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1724;
 		vrLoc = 498;
@@ -1781,7 +1804,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 95";
 		rLen = 0;
-		rLoc = 3415;
+		rLoc = 3455;
 		rType = 0;
 		vrLen = 2433;
 		vrLoc = 1412;
@@ -1791,7 +1814,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 50";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1726;
 		vrLoc = 498;
@@ -1801,7 +1824,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 52";
 		rLen = 0;
-		rLoc = 1844;
+		rLoc = 1884;
 		rType = 0;
 		vrLen = 2391;
 		vrLoc = 1494;
@@ -1811,7 +1834,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 50";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1726;
 		vrLoc = 498;
@@ -1821,7 +1844,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 96";
 		rLen = 0;
-		rLoc = 3461;
+		rLoc = 3501;
 		rType = 0;
 		vrLen = 2282;
 		vrLoc = 1655;
@@ -1831,7 +1854,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 50";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1726;
 		vrLoc = 498;
@@ -1841,7 +1864,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 104";
 		rLen = 0;
-		rLoc = 4000;
+		rLoc = 4040;
 		rType = 0;
 		vrLen = 1911;
 		vrLoc = 2127;
@@ -1857,7 +1880,7 @@
 		hitCount = 0;
 		ignoreCount = 0;
 		location = libobjc.A.dylib;
-		modificationTime = 314019131.74684;
+		modificationTime = 314021787.901844;
 		originalNumberOfMultipleMatches = 1;
 		state = 1;
 		symbolName = objc_exception_throw;
@@ -1867,7 +1890,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 50";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1726;
 		vrLoc = 498;
@@ -1877,7 +1900,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 104";
 		rLen = 0;
-		rLoc = 4000;
+		rLoc = 4040;
 		rType = 0;
 		vrLen = 1868;
 		vrLoc = 2176;
@@ -1887,7 +1910,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 50";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1726;
 		vrLoc = 498;
@@ -1897,7 +1920,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 97";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1869;
 		vrLoc = 2221;
@@ -1907,7 +1930,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 50";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1726;
 		vrLoc = 498;
@@ -1917,7 +1940,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 106";
 		rLen = 0;
-		rLoc = 4000;
+		rLoc = 4040;
 		rType = 0;
 		vrLen = 1862;
 		vrLoc = 2224;
@@ -1927,7 +1950,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 50";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1726;
 		vrLoc = 498;
@@ -1937,7 +1960,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 107";
 		rLen = 0;
-		rLoc = 4071;
+		rLoc = 4111;
 		rType = 0;
 		vrLen = 1864;
 		vrLoc = 2224;
@@ -1947,7 +1970,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 50";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1726;
 		vrLoc = 498;
@@ -1957,7 +1980,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 107";
 		rLen = 0;
-		rLoc = 4071;
+		rLoc = 4111;
 		rType = 0;
 		vrLen = 1864;
 		vrLoc = 2224;
@@ -1967,7 +1990,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 44";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1729;
 		vrLoc = 498;
@@ -1987,7 +2010,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 44";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1729;
 		vrLoc = 498;
@@ -2007,7 +2030,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 44";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1729;
 		vrLoc = 498;
@@ -2017,7 +2040,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 63";
 		rLen = 0;
-		rLoc = 2482;
+		rLoc = 2522;
 		rType = 0;
 		vrLen = 2288;
 		vrLoc = 1459;
@@ -2027,7 +2050,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 44";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1731;
 		vrLoc = 498;
@@ -2047,7 +2070,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 44";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1731;
 		vrLoc = 498;
@@ -2067,7 +2090,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 44";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1731;
 		vrLoc = 498;
@@ -2087,7 +2110,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 44";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1731;
 		vrLoc = 498;
@@ -2097,7 +2120,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 82";
 		rLen = 0;
-		rLoc = 3070;
+		rLoc = 3110;
 		rType = 0;
 		vrLen = 1832;
 		vrLoc = 2005;
@@ -2117,7 +2140,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 44";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1731;
 		vrLoc = 498;
@@ -2127,7 +2150,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 61";
 		rLen = 0;
-		rLoc = 2401;
+		rLoc = 2441;
 		rType = 0;
 		vrLen = 2134;
 		vrLoc = 1644;
@@ -2137,7 +2160,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 44";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1731;
 		vrLoc = 498;
@@ -2147,7 +2170,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 61";
 		rLen = 0;
-		rLoc = 2401;
+		rLoc = 2441;
 		rType = 0;
 		vrLen = 1989;
 		vrLoc = 1794;
@@ -2157,7 +2180,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 44";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1731;
 		vrLoc = 498;
@@ -2167,7 +2190,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 61";
 		rLen = 0;
-		rLoc = 2401;
+		rLoc = 2441;
 		rType = 0;
 		vrLen = 2218;
 		vrLoc = 1284;
@@ -2187,7 +2210,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 44";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1880;
 		rType = 0;
 		vrLen = 1739;
 		vrLoc = 619;
@@ -2207,7 +2230,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 61";
 		rLen = 0;
-		rLoc = 2401;
+		rLoc = 2441;
 		rType = 0;
 		vrLen = 2280;
 		vrLoc = 1314;
@@ -2227,7 +2250,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 61";
 		rLen = 0;
-		rLoc = 2401;
+		rLoc = 2441;
 		rType = 0;
 		vrLen = 2290;
 		vrLoc = 1342;
@@ -2237,7 +2260,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 61";
 		rLen = 0;
-		rLoc = 2401;
+		rLoc = 2441;
 		rType = 0;
 		vrLen = 1205;
 		vrLoc = 1795;
@@ -2247,7 +2270,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 61";
 		rLen = 0;
-		rLoc = 2401;
+		rLoc = 2441;
 		rType = 0;
 		vrLen = 2291;
 		vrLoc = 1344;
@@ -2257,7 +2280,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 82";
 		rLen = 0;
-		rLoc = 3070;
+		rLoc = 3110;
 		rType = 0;
 		vrLen = 996;
 		vrLoc = 2816;
@@ -2267,7 +2290,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 61";
 		rLen = 0;
-		rLoc = 2401;
+		rLoc = 2441;
 		rType = 0;
 		vrLen = 2335;
 		vrLoc = 1383;
@@ -2277,7 +2300,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 90";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 952;
 		vrLoc = 2816;
@@ -2287,7 +2310,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 61";
 		rLen = 0;
-		rLoc = 2401;
+		rLoc = 2441;
 		rType = 0;
 		vrLen = 2319;
 		vrLoc = 1383;
@@ -2297,7 +2320,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 90";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 980;
 		vrLoc = 2783;
@@ -2307,7 +2330,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 61";
 		rLen = 0;
-		rLoc = 2401;
+		rLoc = 2441;
 		rType = 0;
 		vrLen = 2249;
 		vrLoc = 1462;
@@ -2317,7 +2340,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 93";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1259;
 		vrLoc = 2500;
@@ -2327,7 +2350,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 63";
 		rLen = 0;
-		rLoc = 2453;
+		rLoc = 2493;
 		rType = 0;
 		vrLen = 2265;
 		vrLoc = 1038;
@@ -2337,7 +2360,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 93";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1267;
 		vrLoc = 2500;
@@ -2347,7 +2370,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 63";
 		rLen = 0;
-		rLoc = 2453;
+		rLoc = 2493;
 		rType = 0;
 		vrLen = 2285;
 		vrLoc = 1120;
@@ -2357,7 +2380,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 96";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1157;
 		vrLoc = 2518;
@@ -2367,7 +2390,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 48";
 		rLen = 0;
-		rLoc = 1957;
+		rLoc = 1997;
 		rType = 0;
 		vrLen = 2420;
 		vrLoc = 619;
@@ -2377,7 +2400,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 96";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1191;
 		vrLoc = 2106;
@@ -2387,7 +2410,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 48";
 		rLen = 0;
-		rLoc = 1929;
+		rLoc = 1969;
 		rType = 0;
 		vrLen = 2443;
 		vrLoc = 619;
@@ -2397,7 +2420,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 95";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1148;
 		vrLoc = 1976;
@@ -2407,7 +2430,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 49";
 		rLen = 0;
-		rLoc = 1929;
+		rLoc = 1969;
 		rType = 0;
 		vrLen = 2176;
 		vrLoc = 856;
@@ -2417,7 +2440,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 97";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1217;
 		vrLoc = 1602;
@@ -2427,7 +2450,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 45";
 		rLen = 0;
-		rLoc = 1833;
+		rLoc = 1873;
 		rType = 0;
 		vrLen = 2119;
 		vrLoc = 858;
@@ -2437,7 +2460,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 97";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1283;
 		vrLoc = 1602;
@@ -2447,7 +2470,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 66";
 		rLen = 0;
-		rLoc = 2453;
+		rLoc = 2493;
 		rType = 0;
 		vrLen = 2115;
 		vrLoc = 1120;
@@ -2457,7 +2480,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 93";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1282;
 		vrLoc = 1602;
@@ -2467,7 +2490,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 96";
 		rLen = 0;
-		rLoc = 3645;
+		rLoc = 3685;
 		rType = 0;
 		vrLen = 2039;
 		vrLoc = 1844;
@@ -2477,7 +2500,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 93";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1186;
 		vrLoc = 1602;
@@ -2487,7 +2510,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 98";
 		rLen = 0;
-		rLoc = 3760;
+		rLoc = 3800;
 		rType = 0;
 		vrLen = 2052;
 		vrLoc = 1897;
@@ -2497,7 +2520,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 93";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1186;
 		vrLoc = 1602;
@@ -2507,7 +2530,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 98";
 		rLen = 0;
-		rLoc = 3661;
+		rLoc = 3701;
 		rType = 0;
 		vrLen = 2061;
 		vrLoc = 1962;
@@ -2517,7 +2540,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 94";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1255;
 		vrLoc = 1602;
@@ -2537,7 +2560,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 67";
 		rLen = 0;
-		rLoc = 2537;
+		rLoc = 2577;
 		rType = 0;
 		vrLen = 2164;
 		vrLoc = 1169;
@@ -2547,7 +2570,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 67";
 		rLen = 0;
-		rLoc = 2537;
+		rLoc = 2577;
 		rType = 0;
 		vrLen = 2190;
 		vrLoc = 1169;
@@ -2557,7 +2580,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 94";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1213;
 		vrLoc = 1602;
@@ -2567,7 +2590,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 67";
 		rLen = 0;
-		rLoc = 2537;
+		rLoc = 2577;
 		rType = 0;
 		vrLen = 2075;
 		vrLoc = 1284;
@@ -2577,7 +2600,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 94";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1255;
 		vrLoc = 1602;
@@ -2587,7 +2610,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 115";
 		rLen = 0;
-		rLoc = 4148;
+		rLoc = 4188;
 		rType = 0;
 		vrLen = 1764;
 		vrLoc = 2802;
@@ -2597,7 +2620,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 94";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1255;
 		vrLoc = 1602;
@@ -2607,7 +2630,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 119";
 		rLen = 0;
-		rLoc = 4310;
+		rLoc = 4350;
 		rType = 0;
 		vrLen = 1902;
 		vrLoc = 2664;
@@ -2617,7 +2640,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 94";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1213;
 		vrLoc = 1602;
@@ -2627,7 +2650,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 122";
 		rLen = 0;
-		rLoc = 4443;
+		rLoc = 4483;
 		rType = 0;
 		vrLen = 1948;
 		vrLoc = 2510;
@@ -2637,7 +2660,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 96";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1321;
 		vrLoc = 1602;
@@ -2647,7 +2670,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 78";
 		rLen = 0;
-		rLoc = 2879;
+		rLoc = 2919;
 		rType = 0;
 		vrLen = 2329;
 		vrLoc = 2100;
@@ -2657,7 +2680,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 96";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1321;
 		vrLoc = 1602;
@@ -2667,7 +2690,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 78";
 		rLen = 0;
-		rLoc = 2879;
+		rLoc = 2919;
 		rType = 0;
 		vrLen = 2329;
 		vrLoc = 2100;
@@ -2677,7 +2700,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 96";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1308;
 		vrLoc = 1602;
@@ -2687,7 +2710,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 78";
 		rLen = 0;
-		rLoc = 2879;
+		rLoc = 2919;
 		rType = 0;
 		vrLen = 2243;
 		vrLoc = 2186;
@@ -2697,7 +2720,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 96";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1492;
 		vrLoc = 1386;
@@ -2707,7 +2730,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 37";
 		rLen = 0;
-		rLoc = 1459;
+		rLoc = 1386;
 		rType = 0;
 		vrLen = 2542;
 		vrLoc = 0;
@@ -2733,7 +2756,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 96";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1491;
 		vrLoc = 1386;
@@ -2743,7 +2766,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 37";
 		rLen = 0;
-		rLoc = 1459;
+		rLoc = 1386;
 		rType = 0;
 		vrLen = 2541;
 		vrLoc = 0;
@@ -2763,7 +2786,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 96";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1491;
 		vrLoc = 1386;
@@ -2773,7 +2796,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 130";
 		rLen = 0;
-		rLoc = 4558;
+		rLoc = 4598;
 		rType = 0;
 		vrLen = 2084;
 		vrLoc = 2482;
@@ -2831,7 +2854,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 96";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1491;
 		vrLoc = 1386;
@@ -2851,7 +2874,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 96";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1383;
 		vrLoc = 1386;
@@ -2871,7 +2894,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 96";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1383;
 		vrLoc = 1386;
@@ -2891,7 +2914,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 96";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1383;
 		vrLoc = 1386;
@@ -2911,7 +2934,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 96";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1491;
 		vrLoc = 1386;
@@ -2931,7 +2954,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 96";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1383;
 		vrLoc = 1386;
@@ -2951,7 +2974,7 @@
 		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
 		name = "kismetsettingscontroller.m: 96";
 		rLen = 0;
-		rLoc = 3464;
+		rLoc = 3504;
 		rType = 0;
 		vrLen = 1491;
 		vrLoc = 1386;
@@ -3758,6 +3781,202 @@
 		rType = 0;
 		vrLen = 775;
 		vrLoc = 0;
+	};
+	87CDAC9D12B78EF2006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 62";
+		rLen = 0;
+		rLoc = 2820;
+		rType = 0;
+		vrLen = 615;
+		vrLoc = 1189;
+	};
+	87CDAC9E12B78EF3006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 62";
+		rLen = 0;
+		rLoc = 2820;
+		rType = 0;
+		vrLen = 615;
+		vrLoc = 1189;
+	};
+	87CDAC9F12B78EFC006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
+		name = "kismetsettingscontroller.m: 14";
+		rLen = 22;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 1653;
+		vrLoc = 0;
+	};
+	87CDACA212B79179006224AF /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+	};
+	87CDACA812B79207006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87079BD112B3A212008E90AE /* signalnoiseview.m */;
+		name = "signalnoiseview.m: 87";
+		rLen = 0;
+		rLoc = 3272;
+		rType = 0;
+		vrLen = 1121;
+		vrLoc = 0;
+	};
+	87CDACA912B79207006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
+		name = "kismetsettingscontroller.m: 13";
+		rLen = 0;
+		rLoc = 240;
+		rType = 0;
+		vrLen = 1686;
+		vrLoc = 159;
+	};
+	87CDACAA12B79207006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 250";
+		rLen = 0;
+		rLoc = 9880;
+		rType = 0;
+		vrLen = 1091;
+		vrLoc = 8759;
+	};
+	87CDACAD12B79207006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 62";
+		rLen = 0;
+		rLoc = 2820;
+		rType = 0;
+		vrLen = 2225;
+		vrLoc = 7078;
+	};
+	87CDACB012B79263006224AF /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
+	};
+	87CDACB312B79273006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* kismetclientAppDelegate.m */;
+		name = "kismetclientAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 391;
+		vrLoc = 0;
+	};
+	87CDACB412B79273006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
+		name = "kismetsettingscontroller.m: 13";
+		rLen = 0;
+		rLoc = 240;
+		rType = 0;
+		vrLen = 1682;
+		vrLoc = 159;
+	};
+	87CDACB512B79273006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 250";
+		rLen = 0;
+		rLoc = 9880;
+		rType = 0;
+		vrLen = 1091;
+		vrLoc = 8759;
+	};
+	87CDACB612B79273006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 250";
+		rLen = 0;
+		rLoc = 9880;
+		rType = 0;
+		vrLen = 2358;
+		vrLoc = 1313;
+	};
+	87CDACB912B79273006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
+		name = "kismetsettingscontroller.m: 37";
+		rLen = 0;
+		rLoc = 1389;
+		rType = 0;
+		vrLen = 2581;
+		vrLoc = 0;
+	};
+	87CDACBA12B79273006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 62";
+		rLen = 0;
+		rLoc = 2820;
+		rType = 0;
+		vrLen = 3070;
+		vrLoc = 0;
+	};
+	87CDACBD12B79795006224AF /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)";
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 61;
+		rType = 1;
+	};
+	87CDACC012B7979C006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980012B3531E008E90AE /* AsyncSocket.m */;
+		name = "AsyncSocket.m: 4193";
+		rLen = 0;
+		rLoc = 121810;
+		rType = 0;
+		vrLen = 1265;
+		vrLoc = 0;
+	};
+	87CDACC112B7979C006224AF /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)";
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 61;
+		rType = 1;
+	};
+	87CDACC212B7979C006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 62";
+		rLen = 0;
+		rLoc = 2820;
+		rType = 0;
+		vrLen = 2121;
+		vrLoc = 1550;
+	};
+	87CDACC312B7979C006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8707980A12B3537A008E90AE /* kismetsocket.m */;
+		name = "kismetsocket.m: 62";
+		rLen = 0;
+		rLoc = 2820;
+		rType = 0;
+		vrLen = 3277;
+		vrLoc = 605;
+	};
+	87CDACC412B7979C006224AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8741ABEC12B64E88005DDC39 /* kismetsettingscontroller.m */;
+		name = "kismetsettingscontroller.m: 37";
+		rLen = 0;
+		rLoc = 1389;
+		rType = 0;
+		vrLen = 2751;
+		vrLoc = 199;
 	};
 	8D1107260486CEB800E47090 /* kismetclient */ = {
 		activeExec = 0;

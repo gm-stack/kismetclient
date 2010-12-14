@@ -81,10 +81,10 @@
 	
 	[[NSColor greenColor] set];
 	NSBezierPath *thePath2 = [NSBezierPath bezierPath];
-	[thePath moveToPoint:NSMakePoint(dbm2pixels(signal_dbm), bounds.size.height - 25)];
-	[thePath lineToPoint:NSMakePoint(dbm2pixels(signal_dbm), bounds.size.height - 45)];
-	[thePath closePath];
-	[thePath stroke];
+	[thePath2 moveToPoint:NSMakePoint(dbm2pixels(signal_dbm), bounds.size.height - 25)];
+	[thePath2 lineToPoint:NSMakePoint(dbm2pixels(signal_dbm), bounds.size.height - 45)];
+	[thePath2 closePath];
+	[thePath2 stroke];
 	
 	
 
