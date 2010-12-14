@@ -11,6 +11,19 @@
 
 @implementation kismetsocket
 
+-(void) awakeFromNib {
+	netInfoHeaders = [[NSArray arrayWithObjects:@"SSID",@"BSSID",
+					  @"",@"Manufacturer",
+					  @"",@"datapackets",@"cryptpackets",
+					  @"",@"Channel",@"freqmhz",
+					  @"",@"firsttime",@"lasttime",
+					  @"",@"rangeip",@"netmaskip",@"gatewayip",
+					  @"",@"minlat",@"minlon",@"minalt",
+					  @"",@"maxlat",@"maxlon",@"maxalt",
+					  @"",@"signal_dbm",@"noise_dbm",
+					  @"",nil] retain];
+}
+
 - (IBAction) connect2:(id)sender {
 	[self connect:@"127.0.0.1" port:2501];
 }
@@ -21,8 +34,10 @@
 	BOOL success = [socket connectToHost:server onPort:port error:nil];
 	if (success) {
 		NSLog(@"connected");
-		netArray = [[NSMutableDictionary alloc] init];
-		BSSIDinfo = [[NSMutableDictionary alloc] init];
+		netDict = [[NSMutableDictionary alloc] init];
+		BSSIDdict = [[NSMutableDictionary alloc] init];
+		netArray = [[NSMutableArray alloc] init];
+		
 		[table reloadData];
 		[socket writeData:[@"!0 ENABLE ssid mac,checksum,type,cryptset,cloaked,firsttime,lasttime,maxrate,beaconrate,\
 packets,beacons,dot11d,ssid,\n" dataUsingEncoding:NSASCIIStringEncoding] withTimeout:-1 tag:0];
@@ -68,9 +83,11 @@ decrypted,dupeivpackets,bsstimestamp,cdpdevice,cdpport,fragments,retries,newpack
 				ssid = @"<hidden SSID>";
 			}
 			
-			if ([netArray objectForKey:[p2 objectAtIndex:0]] == nil) {
-				[netArray setObject:[[NSMutableDictionary alloc] initWithCapacity:12] forKey:[p2 objectAtIndex:0]];
+			if ([netDict objectForKey:[p2 objectAtIndex:0]] == nil) {
+				[netDict setObject:[[NSMutableDictionary alloc] initWithCapacity:12] forKey:[p2 objectAtIndex:0]];
 			}
+			
+			NSString *bssid = [p2 objectAtIndex:0];
 			
 			NSMutableDictionary *network = [NSMutableDictionary dictionaryWithObjectsAndKeys:
 											ssid,@"SSID",
@@ -87,7 +104,12 @@ decrypted,dupeivpackets,bsstimestamp,cdpdevice,cdpport,fragments,retries,newpack
 											[p2 objectAtIndex:10],@"Beacons",				
 											nil];
 			
-			[[netArray objectForKey:[p2 objectAtIndex:0]] setValuesForKeysWithDictionary:network];
+			[[netDict objectForKey:bssid] setValuesForKeysWithDictionary:network];
+			
+			if (![netArray containsObject:bssid]) {
+				[netArray addObject:bssid];
+			}
+			
 			[table reloadData];
 		} else if ([type isEqualToString:@"*BSSID"]) {
 			//NSLog(@"msg %@",msg);
@@ -97,8 +119,8 @@ decrypted,dupeivpackets,bsstimestamp,cdpdevice,cdpport,fragments,retries,newpack
 			NSArray *p4 = [[p objectAtIndex:6] componentsSeparatedByString:@" "];
 			//NSLog(@"p %@\n p2 %@\n p3 %@\np4 %@\n",p,p2,p3,p4);
 			
-			if ([BSSIDinfo objectForKey:[p2 objectAtIndex:0]] == nil) {
-				[BSSIDinfo setObject:[[NSMutableDictionary alloc] initWithCapacity:12] forKey:[p2 objectAtIndex:0]];
+			if ([BSSIDdict objectForKey:[p2 objectAtIndex:0]] == nil) {
+				[BSSIDdict setObject:[[NSMutableDictionary alloc] initWithCapacity:12] forKey:[p2 objectAtIndex:0]];
 			}
 			
 			NSMutableDictionary *network = [NSMutableDictionary dictionaryWithObjectsAndKeys:
@@ -166,7 +188,7 @@ decrypted,dupeivpackets,bsstimestamp,cdpdevice,cdpport,fragments,retries,newpack
 											[p4 objectAtIndex:5],@"datacryptset",
 											nil];
 			//NSLog(@"net %@",network);
-		[[BSSIDinfo objectForKey:[p2 objectAtIndex:0]] setValuesForKeysWithDictionary:network];
+		[[BSSIDdict objectForKey:[p2 objectAtIndex:0]] setValuesForKeysWithDictionary:network];
 		[table reloadData];
 			
 		} else {
@@ -182,8 +204,8 @@ decrypted,dupeivpackets,bsstimestamp,cdpdevice,cdpport,fragments,retries,newpack
     if (tableView == table) {
 		return [netArray count];
 	} else if (tableView == netTable) {
-		if (netInfo == nil) return 0;
-		return [netInfo count];
+		if (currentNetInfo == nil) return 0;
+		return [netInfoHeaders count];
 	}
 	NSLog(@"Unknown tableView");
 	return 0;
@@ -194,21 +216,21 @@ objectValueForTableColumn:(NSTableColumn *)tableColumn
 			row:(int)row
 {
 	if (tableView == table) {
-		NSDictionary *tablerow = [[netArray allKeys] objectAtIndex:row];
+		NSDictionary *netIdent = [netArray objectAtIndex:row];
 		
 		if ([[tableColumn identifier] isEqualToString:@"Channel"]) {
-			return [[BSSIDinfo objectForKey:tablerow] objectForKey:[tableColumn identifier]];
+			return [[BSSIDdict objectForKey:netIdent] objectForKey:[tableColumn identifier]];
 		} else {
-			return [[netArray objectForKey:tablerow] objectForKey:[tableColumn identifier]];
+			return [[netDict objectForKey:netIdent] objectForKey:[tableColumn identifier]];
 		}
 	} else if (tableView == netTable) {
-		if (netInfo == nil) {
+		if (currentNetInfo == nil) {
 			return @"";
 		}
 		if ([[tableColumn identifier] isEqualToString:@"Key"]) {
-			return [[netInfo allKeys] objectAtIndex:row];
+			return [netInfoHeaders objectAtIndex:row];
 		} else if ([[tableColumn identifier] isEqualToString:@"Value"]) {
-			return [netInfo objectForKey:[[netInfo allKeys] objectAtIndex:row]];
+			return [currentNetInfo objectForKey:[netInfoHeaders objectAtIndex:row]];
 		} else {
 			return @"Unknown Column";
 		}
@@ -222,20 +244,20 @@ objectValueForTableColumn:(NSTableColumn *)tableColumn
 	if (sender == table) {
 		int row = [sender selectedRow];
 		if (row >= 0) {
-			NSString *network = [[netArray allKeys] objectAtIndex:row];
+			NSString *network = [netArray objectAtIndex:row];
 			NSLog(@"clicked %@", network);
-			//TODO: mem leak
-			if (netInfo != nil) [netInfo release];
-			netInfo = [NSMutableDictionary dictionaryWithDictionary:[netArray objectForKey:network]];
-			[netInfo addEntriesFromDictionary:[BSSIDinfo objectForKey:network]];
-			[netInfo retain];
+
+			if (currentNetInfo != nil) [currentNetInfo release];
+			currentNetInfo = [NSMutableDictionary dictionaryWithDictionary:[netDict objectForKey:network]];
+			[currentNetInfo addEntriesFromDictionary:[BSSIDdict objectForKey:network]];
+			[currentNetInfo retain];
 			
-			[sigview setSignalParamsNoiseMin:[[netInfo objectForKey:@"minnoise_dbm"] floatValue]
-									noisecur:[[netInfo objectForKey:@"noise_dbm"] floatValue]
-									noisemax:[[netInfo objectForKey:@"maxnoise_dbm"] floatValue]
-									  sigmin:[[netInfo objectForKey:@"minsignal_dbm"] floatValue]
-									  sigcur:[[netInfo objectForKey:@"signal_dbm"] floatValue]
-									  sigmax:[[netInfo objectForKey:@"maxsignal_dbm"] floatValue]];
+			[sigview setSignalParamsNoiseMin:[[currentNetInfo objectForKey:@"minnoise_dbm"] floatValue]
+									noisecur:[[currentNetInfo objectForKey:@"noise_dbm"] floatValue]
+									noisemax:[[currentNetInfo objectForKey:@"maxnoise_dbm"] floatValue]
+									  sigmin:[[currentNetInfo objectForKey:@"minsignal_dbm"] floatValue]
+									  sigcur:[[currentNetInfo objectForKey:@"signal_dbm"] floatValue]
+									  sigmax:[[currentNetInfo objectForKey:@"maxsignal_dbm"] floatValue]];
 			
 			[netTable reloadData];
 		}

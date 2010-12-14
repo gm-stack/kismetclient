@@ -11,6 +11,8 @@
 
 @interface kismetsettingscontroller : NSObject {
 	IBOutlet NSTableView *prefsTable;
+	IBOutlet NSTableView *sourcesTable;
+	IBOutlet NSTableView *channelTable;
 	IBOutlet NSTextField *path;
 	NSArray *simpleSettings;
 	NSArray *complexSettings;

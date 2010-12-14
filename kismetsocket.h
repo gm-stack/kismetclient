@@ -18,9 +18,12 @@
 	IBOutlet NSTableView *netTable;
 	IBOutlet signalnoiseview *sigview;
 	AsyncSocket *socket;
-	NSMutableDictionary *netArray;
-	NSMutableDictionary *BSSIDinfo;
-	NSMutableDictionary *netInfo;
+	NSMutableDictionary *netDict;
+	NSMutableDictionary *BSSIDdict;
+	NSMutableDictionary *currentNetInfo;
+	NSMutableArray *netArray;
+	
+	NSArray *netInfoHeaders;
 	int time;
 
 }
